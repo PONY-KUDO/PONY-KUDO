@@ -67,6 +67,7 @@ $${\color{#F8d1cd} Contact　me　via}$$　<a href="https://zombielovejuice.atab
 <h4><a href="https://github.com/MoriouChoRadio">Welcome2Paradiseㅤ</a> Pony Town's $${\color{#DA2C43}MOST-REOCCURING}$$ JJBA enthusiast</h4>
 <h4><a href="https://github.com/thefleshcurtains">thefleshcurtainsㅤ</a> Pony Town's $${\color{#DA2C43}NO1}$$ Michael Jackson fan</h4>
 <h4><a href="https://github.com/Asrieluo">Asrieluoㅤ</a> Pony Town's $${\color{#DA2C43}ONLY}$$ Israel</h4>
+<h4><a href="https://github.com/lobogirl">lobogirlㅤ</a> Pony Town's $${\color{#DA2C43}NO1}$$ lobo selfshipper</h4>
   </details>
 </v>
 <p align="center"><a href="https://tumblr.com/imsurlai"><img width="4000" title="ac: imsurlai @ TMBLR" src="https://github.com/user-attachments/assets/207c5d39-4e99-469c-9d19-112cf6cc77b5" /></a></p>
