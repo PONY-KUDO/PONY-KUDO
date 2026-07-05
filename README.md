@@ -27,21 +27,21 @@
 <tr>
 <td>
   <details>
-<summary>$\color{#BD1629}{\textsf{ㅤㅤㅤ𝕴nfoㅤㅤཀ}}$</summary>
+<summary>$\color{#BD1629}{\textsf{ㅤㅤ𝕴nfoㅤㅤཀ}}$</summary>
 　　　<br>
 $${\color{#DA2C43} This　is　a　spam-follow　account.}$$
 　　<br>
-$${\color{#E15566} Enlighten　me　if　i　follow　anyone　bad.}$$
+$${\color{#E15566} We　kudo　people.}$$
+    <br>
+$${\color{#E97E88} Enlighten　us　if　we　follow　anyone　bad.}$$
 　　<br>
-$${\color{#E97E88} If　bothered,　block　me.}$$
+$${\color{#F0a8ab} If　bothered,　block.}$$
 　　<br>
-$${\color{#F0a8ab} Contact　me　via}$$　<a href="https://zombielovejuice.atabook.org/">here</a>.
+$${\color{#F8d1cd} Contact　me　via}$$　<a href="https://zombielovejuice.atabook.org/">here</a>.
   </details>
   </td>
   </tr>
   </table>
-<p align="center"><img width="38%" src="https://github.com/user-attachments/assets/3d55c80b-9769-4268-a017-0ee3d47a4989" /></p>
-</p>
   <table align="center">
     <tr>
 <td>
@@ -53,9 +53,19 @@ $${\color{#F0a8ab} Contact　me　via}$$　<a href="https://zombielovejuice.atab
 <a href="https://github.com/GUT-GORE">2</a>$${\color{#E15566} :　GUT-GORE}$$
 　　<br>
 <a href="https://github.com/BC-013">3</a>$${\color{#E97E88} :　BC-013}$$
+    <br>
+    <a href="https://syscestkudo.straw.page/" title="KUDOS">　　click to recommend kudos.　　</a>
   </details>
   </td>
   </tr>
   </table>
-  <br><br>
-  <p align="center"><a href="https://tumblr.com/imsurlai"><img width="4000" title="ac: imsurlai @ TMBLR" src="https://github.com/user-attachments/assets/207c5d39-4e99-469c-9d19-112cf6cc77b5" /></a></p>
+<p align="center"><img width="38%" src="https://github.com/user-attachments/assets/3d55c80b-9769-4268-a017-0ee3d47a4989" /></p>
+<v align="center">
+  <details>
+<summary>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="10%" align="center" src="https://github.com/user-attachments/assets/b90ee2dd-fbc1-47fe-9bda-bac0cf6d2f8a" /></summary>
+<h4><a href="https://github.com/gambling-addict">gambling-addictㅤ</a> Pony Town's $${\color{#DA2C43}NO1}$$ Github follower!</h4>
+<h4><a href="https://github.com/MoriouChoRadio">Welcome2Paradiseㅤ</a> Pony Town's $${\color{#DA2C43}MOST-REOCCURING}$$ JJBA enthusiast!</h4>
+
+  </details>
+</v>
+<p align="center"><a href="https://tumblr.com/imsurlai"><img width="4000" title="ac: imsurlai @ TMBLR" src="https://github.com/user-attachments/assets/207c5d39-4e99-469c-9d19-112cf6cc77b5" /></a></p>
