@@ -50,7 +50,7 @@ $${\color{#F8d1cd} Contact　me　via}$$　<a href="https://zombielovejuice.atab
 　　　<br>
 <a href="https://github.com/KALININGRAD-OBLAST">1</a>$${\color{#DA2C43} :　KALININGRAD-OBLAST}$$
 　　<br>
-<a href="https://github.com/GUT-GORE">2</a>$${\color{#E15566} :　GUT-GORE}$$
+<a href="https://github.com/NERDPROJECT">2</a>$${\color{#E15566} :　NERDPROJECT}$$
 　　<br>
 <a href="https://github.com/BC-013">3</a>$${\color{#E97E88} :　BC-013}$$
     <br>
